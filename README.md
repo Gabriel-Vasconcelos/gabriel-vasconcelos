@@ -1,12 +1,12 @@
 # 🔫 Olá, me chamo <strong>{Gabriel}!</strong> 
-> Atualmente trabalho e estudo sobre Desenvolvimento Web e sou entusiasta em Design UI/UX e em GameDev
+> Atualmente estudo Desenvolvimento Web FullStack e trabalho com Front-End. Sou entusiasta em Design UI/UX e em GameDev.
 
 ## 👨‍💻 Sobre mim
 
 - 📍 Fortaleza, Ceará - Brasil
 - 🎓 Discente no curso de <a href="https://smd.ufc.br" target="_blank">Sistemas e Mídias Digitais </a> na <a href="https://www.ufc.br/" target="_blank">Universidade Federal do Ceará (UFC)</a>.
 - 💼 Trabalhando como **Desenvolvedor Web Front-End** na <a href="https://www.linkedin.com/company/hunni-dev?trk=public_profile_topcard-current-company" target="_blank">Hunni Dev</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Mobile Android**.
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Mobile Android e Web FullStack**.
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
 
 ## 🔧 Skills
