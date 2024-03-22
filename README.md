@@ -1,4 +1,4 @@
-# 🔫 Olá, me chamo <strong>{Gabriel}!</strong> 
+# 🔫 Olá, me chamo <strong>${Gabriel}!</strong> 
 > Atualmente estudo Desenvolvimento Web FullStack e trabalho com Front-End. Sou entusiasta em Design UI/UX e em GameDev.
 
 ## 👨‍💻 Sobre mim
