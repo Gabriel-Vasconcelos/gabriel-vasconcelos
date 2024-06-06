@@ -1,5 +1,5 @@
 # 🔫 Olá, me chamo <strong>${Gabriel}!</strong> 
-> Atualmente estudo Desenvolvimento Web FullStack e trabalho com Front-End. Sou entusiasta em Design UI/UX e em GameDev.
+> Atualmente estudo Desenvolvimento Web FullStack e trabalho com Front-End.
 
 ## 👨‍💻 Sobre mim
 
@@ -7,6 +7,7 @@
 - 🎓 Discente no curso de <a href="https://smd.ufc.br" target="_blank">Sistemas e Mídias Digitais </a> na <a href="https://www.ufc.br/" target="_blank">Universidade Federal do Ceará (UFC)</a>.
 - 💼 Trabalhando como **Desenvolvedor Web Front-End** na <a href="https://www.linkedin.com/company/hunni-dev?trk=public_profile_topcard-current-company" target="_blank">Hunni Dev</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Web FullStack**.
+- 🎮 Entusiasta em Desenvolvimento de Jogos com a Godot Engine
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
 
 ## 🔧 Skills
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge">
 </div>
 
 ## ⭐ Minha conta GitHub
