@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Cypress-478CBF?logo=cypress&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge">
 </div>
 
