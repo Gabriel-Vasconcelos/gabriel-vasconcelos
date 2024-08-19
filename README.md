@@ -5,12 +5,12 @@
 
 - 📍 Fortaleza, Ceará - Brasil
 - 🎓 Discente no curso de <a href="https://smd.ufc.br" target="_blank">Sistemas e Mídias Digitais </a> na <a href="https://www.ufc.br/" target="_blank">Universidade Federal do Ceará (UFC)</a>.
-- 💼 Trabalhando como **Desenvolvedor Web Front-End** na <a href="https://www.linkedin.com/company/hunni-dev?trk=public_profile_topcard-current-company" target="_blank">Hunni Dev</a>
+- 💼 Trabalhando como **Desenvolvedor Web** na <a href="https://www.linkedin.com/company/hunni-dev?trk=public_profile_topcard-current-company" target="_blank">Hunni Dev</a> utilizando principalmente a tecnologia [Shopify](https://shopify.dev/) ([Liquid](https://shopify.dev/docs/api/liquid)).
 - 🌱 &nbsp; Aprendendo mais sobre **Web FullStack**.
 - 🎮 Entusiasta em Desenvolvimento de Jogos com a Godot Engine
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
 
-## 🔧 Skills
+## 🔧 Tecnologias e Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/shopify-liquid?logo=liquid&style=for-the-badge">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -44,7 +45,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vasconcelos&hide=html&layout=compact&theme=dracula" alt="GitHub Most Languagens" />
 </div>
 
+##  📝 Projetos
+### 🍸 Gin & Juice By Dre and Snoop
+- Participei do desenvolvimento da loja oficial da icônica parceria entre Dr. Dre e Snoop Dogg, que lançou a linha de coquetéis premium "Gin & Juice". O projeto foi desenvolvido em Shopify com personalizações em Liquid, JavaScript Vanilla e Tailwind CSS para criar uma experiência de compra atraente e fluida. A loja vende uma variedade de bebidas inspiradas na clássica música "Gin & Juice", com distribuição nacional nos Estados Unidos.
 
-### 📱 Redes Sociais
+- **Tecnologias:** Shopify, Liquid, JavaScript Vanilla, Tailwind CSS
+- **Link:** [Gin & Juice By Dre and Snoop](https://bydreandsnoop.com/)
+
+🏖️ Beach Riot
+- Colaborei no desenvolvimento da loja online da Beach Riot, uma marca de moda praia com sede na Califórnia. A loja é conhecida por suas coleções vibrantes, com estampas ousadas e tecidos luxuosos. O projeto foi desenvolvido em Shopify, utilizando Liquid para customizações específicas, com foco em proporcionar uma experiência de compra fluida e inspiradora. A Beach Riot se destaca não só pela moda praia, mas também pela sua linha de activewear, sempre trazendo um toque da cultura praiana de Southern California.
+
+- **Tecnologias:** Shopify, Liquid, JavaScript Vanilla, Tailwind CSS
+- **Link:** [Beach Riot](https://beachriot.com/)
+
+### 🌐 Redes Sociais
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabrielvsv/)
