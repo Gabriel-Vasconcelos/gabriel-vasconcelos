@@ -52,7 +52,7 @@
 - **Tecnologias:** Shopify, Liquid, JavaScript Vanilla, Tailwind CSS
 - **Link:** [Gin & Juice By Dre and Snoop](https://bydreandsnoop.com/)
 
-🏖️ Beach Riot
+### 🏖️ Beach Riot
 - Colaborei no desenvolvimento da loja online da Beach Riot, uma marca de moda praia com sede na Califórnia. A loja é conhecida por suas coleções vibrantes, com estampas ousadas e tecidos luxuosos. O projeto foi desenvolvido em Shopify, utilizando Liquid para customizações específicas, com foco em proporcionar uma experiência de compra fluida e inspiradora. A Beach Riot se destaca não só pela moda praia, mas também pela sua linha de activewear, sempre trazendo um toque da cultura praiana de Southern California.
 
 - **Tecnologias:** Shopify, Liquid, JavaScript Vanilla, Tailwind CSS
