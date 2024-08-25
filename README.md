@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vasconcelos&hide=html&layout=compact&theme=dracula" alt="GitHub Most Languagens" />
 </div>
 
-##  📝 Projetos
+##  📝 Projetos Profissionais de Destaque
 ### 🍸 Gin & Juice By Dre and Snoop
 - Participei do desenvolvimento da loja oficial da icônica parceria entre Dr. Dre e Snoop Dogg, que lançou a linha de coquetéis premium "Gin & Juice". O projeto foi desenvolvido em Shopify com personalizações em Liquid, JavaScript Vanilla e Tailwind CSS para criar uma experiência de compra atraente e fluida. A loja vende uma variedade de bebidas inspiradas na clássica música "Gin & Juice", com distribuição nacional nos Estados Unidos.
 
