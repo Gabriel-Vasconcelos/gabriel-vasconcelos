@@ -9,6 +9,7 @@
 - 🌱 &nbsp; Aprendendo mais sobre **Web FullStack**.
 - 🎮 Entusiasta em Desenvolvimento de Jogos com a Godot Engine
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
+- 🌐 [Linkedin](https://www.linkedin.com/in/gabriel-vasconcelos-9bab71234/)
 
 ## 🔧 Tecnologias e Ferramentas
 <div align="center">
