@@ -10,6 +10,7 @@
 - 🎮 Entusiasta em Desenvolvimento de Jogos com a Godot Engine
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
 - 🌐 [Linkedin](https://www.linkedin.com/in/gabriel-vasconcelos-9bab71234/)
+- 🔗 [Meus Links](https://bento.me/gabriel-vasconcelos)
 
 ## 🔧 Tecnologias e Ferramentas
 <div align="center">
@@ -44,17 +45,7 @@
 </div>
 
 ##  📝 Projetos Profissionais de Destaque
-### 🍸 Gin & Juice By Dre and Snoop
-- Participei do desenvolvimento da loja oficial da icônica parceria entre Dr. Dre e Snoop Dogg, que lançou a linha de coquetéis premium "Gin & Juice". O projeto foi desenvolvido em Shopify com personalizações em Liquid, JavaScript Vanilla e Tailwind CSS para criar uma experiência de compra atraente e fluida. A loja vende uma variedade de bebidas inspiradas na clássica música "Gin & Juice", com distribuição nacional nos Estados Unidos.
-
-- **Tecnologias:** Shopify, Liquid, JavaScript Vanilla, Tailwind CSS
-- **Link:** [Gin & Juice By Dre and Snoop](https://bydreandsnoop.com/)
-
-### 🏖️ Beach Riot
-- Colaborei no desenvolvimento da loja online da Beach Riot, uma marca de moda praia com sede na Califórnia. A loja é conhecida por suas coleções vibrantes, com estampas ousadas e tecidos luxuosos. O projeto foi desenvolvido em Shopify, utilizando Liquid para customizações específicas, com foco em proporcionar uma experiência de compra fluida e inspiradora. A Beach Riot se destaca não só pela moda praia, mas também pela sua linha de activewear, sempre trazendo um toque da cultura praiana de Southern California.
-
-- **Tecnologias:** Shopify, Liquid, JavaScript Vanilla, Tailwind CSS
-- **Link:** [Beach Riot](https://beachriot.com/)
+Você pode ver meus projetos clicando [aqui](https://bento.me/gabriel-vasconcelos)
 
 ### 🌐 Redes Sociais
 
