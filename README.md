@@ -10,7 +10,7 @@
 - 🎮 Entusiasta em Desenvolvimento de Jogos com a Godot Engine
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
 - 🌐 [Linkedin](https://www.linkedin.com/in/gabriel-vasconcelos-9bab71234/)
-- 🔗 [Meus Links](https://bento.me/gabriel-vasconcelos)
+- 🔗 [Meus Links](https://gabriel-vasconcelos.keepo.bio/)
 
 ## 🔧 Tecnologias e Ferramentas
 <div align="center">
