@@ -5,7 +5,7 @@
 
 - 📍 Fortaleza, Ceará - Brasil
 - 🎓 Discente no curso de <a href="https://smd.ufc.br" target="_blank">Sistemas e Mídias Digitais </a> na <a href="https://www.ufc.br/" target="_blank">Universidade Federal do Ceará (UFC)</a>.
-- 💼 Trabalhando como **Desenvolvedor Web** na <a href="https://www.linkedin.com/company/hunni-dev?trk=public_profile_topcard-current-company" target="_blank">Hunni Dev</a> utilizando principalmente a tecnologia [Shopify](https://shopify.dev/) ([Liquid](https://shopify.dev/docs/api/liquid)), React, Next.js e TailwindCSS.
+- 💼 Trabalhando como **Desenvolvedor Web**
 - 🌱 &nbsp; Aprendendo mais sobre **Web FullStack**.
 - 🎮 Entusiasta em Desenvolvimento de Jogos com a Godot Engine
 - ✉️ Entre em contato comigo **gabriel.vsv16@gmail.com**
