@@ -1,5 +1,5 @@
 # 🔫 Olá, me chamo <strong>${Gabriel}!</strong> 
-> Atualmente estudo Desenvolvimento Web FullStack e trabalho com Front-End.
+> Atualmente estudo e trabalho com Desenvolvimento Web FullStack.
 
 ## 👨‍💻 Sobre mim
 
